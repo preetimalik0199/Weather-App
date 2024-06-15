@@ -12,9 +12,6 @@ A feature-rich weather application developed using HTML, CSS, and JavaScript. Th
 - **Error Handling:** Alerts the user if the entered city name does not match any data from the API.
 - **Good UX/UI:** Ensures a user-friendly and visually appealing interface.
 
-## Demo
-
-(Include a screenshot or a link to a live demo if available)
 
 ## Getting Started
 
